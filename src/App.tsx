@@ -4,6 +4,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
 import Kartya from './components/Kartya'
+import Kartyak from './components/Kartyak'
 
 
 function App() {

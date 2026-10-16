@@ -12,7 +12,13 @@ type KartyakProps = {
 function Kartyak() {
     return (
         <>
-            
+            <Kartya 
+            id={0} 
+            szoba_nev={'test'}
+            szobatipus={'egyéni tanulás'}
+            emelet={0}
+            ferohely={0}
+            foglalt_helyek={0}/>
         </>
     )
 }
